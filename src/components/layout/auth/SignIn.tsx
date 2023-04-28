@@ -90,7 +90,7 @@ const SignIn: React.FC = () => {
           bg={bgColor}
           boxShadow="0 20px 27px 0 rgb(0 0 0 / 5%)"
         >
-          <Image src="/logo-light.png" alt="logo" />
+          <Image src="/Logo.png" alt="logo" />
           <Heading color={titleColor} fontSize="lg" textAlign="center">
             SIGN IN
           </Heading>
